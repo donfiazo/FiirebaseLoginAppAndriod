@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "377223404084",
+    "project_id": "fir-test-b42af",
+    "storage_bucket": "fir-test-b42af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:377223404084:android:b16f85638a672fbc60c861",
+        "android_client_info": {
+          "package_name": "com.eddie.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "377223404084-d88ah4f39lksat1c5p5pfvutvrb17dh1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.eddie.firebase",
+            "certificate_hash": "f67d7af4cc74aab9c8c9fb1b57781d59db3260ea"
+          }
+        },
+        {
+          "client_id": "377223404084-ll52qs25q06bftlobb10tfaij6i3sf2t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcGyW0qm3MjcKa2wOFEJXhvhxtTb6Reds"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "377223404084-ll52qs25q06bftlobb10tfaij6i3sf2t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
